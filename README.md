@@ -1,7 +1,7 @@
 https://github.com/madilraza/Hello-World-project-using-Maven.
 # -Hello-World-project-using-Maven
 # Maven in 5 Minutes
-Prerequisites
+# Prerequisites
 You must have an understanding of how to install software on your computer. If you do not know how to do this, please ask someone at your office, school, etc or pay someone to explain this to you. The Maven mailing lists are not the best place to ask for this advice.
 
 Installation
